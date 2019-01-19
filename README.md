@@ -1,4 +1,4 @@
-# SparseModelingforTerrain
+# Comparative Analysis of Terrain Reconstruction Methods from Airborne Laser Data using Sparse Modeling
 
 """2018年度東京大学大学院工学系研究科社会基盤学専攻修士論文"""
 
