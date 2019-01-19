@@ -1,10 +1,10 @@
 # SparseModelingforTerrain
-# imose
-スパースモデリングを用いた航空レーザー計測による地形再現手法の比較分析
 
+"""2018年度東京大学大学院工学系研究科社会基盤学専攻修士論文"""
 
+"""スパースモデリングを用いた航空レーザー計測による地形再現手法の比較分析"""
 
-
+Comparative Analysis of Terrain Reconstruction Methods \\ from Airborne Laser Data using Sparse Modeling
 
 
 These program codes were the implementations of this article.
