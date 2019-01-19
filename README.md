@@ -4,7 +4,7 @@
 
 """スパースモデリングを用いた航空レーザー計測による地形再現手法の比較分析"""
 
-Comparative Analysis of Terrain Reconstruction Methods \\ from Airborne Laser Data using Sparse Modeling
+Comparative Analysis of Terrain Reconstruction Methods from Airborne Laser Data using Sparse Modeling
 
 
 These program codes were the implementations of this article.
